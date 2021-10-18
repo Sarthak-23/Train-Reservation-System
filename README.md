@@ -5,7 +5,7 @@ Terminal based app
 Clone the repository 
 type following command
 ```
-git clone https://github.com/adijr9487/Train-Reservation-System.git
+git clone https://github.com/Sarthak-23/Train-Reservation-System.git
 ```
 go to the main folder by typing
 ```
